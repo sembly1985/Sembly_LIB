@@ -1,0 +1,27 @@
+/*******************************************************************************
+* @F_NAME :          	filename.h
+* @F_PURPOSE :       	purpose
+* @F_CREATED_BY :    	username
+* @F_CREATION_DATE : 	date
+* @F_LANGUAGE :      	C
+* @F_MPROC_TYPE :		Both-endian
+*************************************** (C) Copyright 2016 Midea Group   ******/
+
+#ifndef FILENAME_H
+#define FILENAME_H
+
+/*______ I N C L U D E - F I L E S ___________________________________________*/
+
+/*______ G L O B A L - D E F I N E S _________________________________________*/
+
+/*______ G L O B A L - T Y P E S _____________________________________________*/
+
+/*______ G L O B A L - D A T A _______________________________________________*/
+
+/*______ G L O B A L - M A C R O S ___________________________________________*/
+
+/*______ G L O B A L - F U N C T I O N S - P R O T O T Y P E S _______________*/
+
+#endif /* FILENAME_H */
+
+/* _____ E N D _____ (filename.h) ____________________________________________*/
