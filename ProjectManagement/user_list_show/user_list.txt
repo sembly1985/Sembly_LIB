@@ -1,0 +1,6 @@
+系统文件夹 C:\Windows\System32
+远程桌面连接 C:\Windows\System32\mstsc.exe
+公共盘项目管理文件夹 \\10.16.25.81\R&D_Team\项目管理
+公共盘项目管理文件 \\10.16.25.81\R&D_Team\项目管理\项目管理文件夹根目录.xlsx
+百度 http://www.baidu.com
+有道词典 http://dict.youdao.com

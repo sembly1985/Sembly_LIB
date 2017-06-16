@@ -16,6 +16,20 @@
       &#20351;&#29992;.bat&#25209;&#22788;&#29702;&#25991;&#20214;&#29983;&#25104;&#39033;&#30446;&#31649;&#29702;&#25991;&#20214;&#30446;&#24405;&#65292;&#22914;&#26679;&#26426;&#20998;&#26512;&#65292;&#20135;&#21697;&#20225;&#21010;&#65292;&#26041;&#26696;&#35774;&#35745;&#31561;
     </p>
   </body>
+</html></richcontent>
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+<node COLOR="#00b439" CREATED="1497582246257" ID="ID_1155157002" MODIFIED="1497582311256" TEXT="user_list_show">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      &#20351;&#29992;python,py2exe&#23454;&#29616;&#24555;&#36895;&#25171;&#24320;user_list.txt&#25991;&#20214;&#21015;&#34920;&#20013;&#30340;&#36335;&#24452;&#65292;&#25991;&#20214;&#21644;&#32593;&#22336;
+    </p>
+  </body>
 </html>
 </richcontent>
 <edge STYLE="bezier" WIDTH="thin"/>
@@ -40,8 +54,7 @@
       PublicInt, config. Dev, Doc&amp;#31561;
     &lt;/p&gt;
   &lt;/body&gt;
-&lt;/html&gt;
-</richcontent>
+&lt;/html&gt;</richcontent>
 <font NAME="SansSerif" SIZE="14"/>
 </node>
 </node>
