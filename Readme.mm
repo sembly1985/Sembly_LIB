@@ -56,6 +56,22 @@
 &lt;/html&gt;</richcontent>
 <font NAME="SansSerif" SIZE="14"/>
 </node>
+<node COLOR="#990000" CREATED="1498197584920" ID="ID_1050738662" MODIFIED="1498197597524" TEXT="OSEK_type_Modules">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1498197600468" ID="ID_297973162" MODIFIED="1498197624900" TEXT="STIMA">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      software timer module
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
 </node>
 </node>
 <node COLOR="#0033ff" CREATED="1497596128722" ID="ID_160415194" MODIFIED="1497596133554" POSITION="right" TEXT="Python">
