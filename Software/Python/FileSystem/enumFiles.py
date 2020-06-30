@@ -6,14 +6,14 @@ Created on Fri Jan 09 15:57:24 2015
 """
 import os
 def enumFiles(fold,fileType):
-    """
+    '''
     enum files with ext defined in fileType
     e.g:
-        enumFiles(r'C:\Usr','.txt')
-        enumFiles(r'C:\Usr',{'.txt','.lst'})
-    """
+        enumFiles(r'C:\\Usr','.txt')
+        enumFiles(r'C:\\Usr',{'.txt','.lst'})
+    '''
     # check type of fileType
-    if(str(type(fileType))=="<type 'str'>"):
+    if(type(fileType)==type('1')):
         fileType=[fileType]
     fileArray = list();
     curFileArray=os.listdir(fold)
