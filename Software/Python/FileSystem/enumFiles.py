@@ -54,3 +54,19 @@ def enumConditionFiles(fold,condition_fcn):
         # end if
     #end for
     return fileArray
+
+def enumFolds(fold):
+    foldArray=list()
+    curFileArray=os.listdir(fold)
+    curFileArray=list(curFileArray)
+    for item in curFileArray:
+        tempPath = os.path.join(fold,item)
+        if(os.path.isdir(tempPath)):
+            foldArray.append(tempPath)
+            subFoldArray=enumFolds(tempPath)
+            foldArray = foldArray.__add__(subFoldArray)
+    #end for
+    return foldArray
+
+if __name__ == "__main__":
+    print(enumFolds(r'E:\Sembly_Wang'))
